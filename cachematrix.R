@@ -1,7 +1,7 @@
 ## These functions calculate the inverse of a matrix
 ## Once it is already calculated, it caches the solved answer
 
-## Set and get a matrix
+## Set and get a cached matrix
 
 makeCacheMatrix <- function(x = matrix()) {
         m <- NULL
